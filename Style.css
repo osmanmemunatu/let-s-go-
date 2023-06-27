@@ -1,0 +1,18 @@
+.carousel-caption {
+    background-color: rgb(255, 0, 0);
+    max-width: 400px;
+    margin: auto;
+    height: 200px;
+    border-radius: 10px;
+    top: 0;
+}
+
+.c-btn {
+    height: 40px;
+    width: 40px;
+    background: rgb(0, 0, 0);
+    color: aqua;
+    top: 40%;
+    margin: 0px 50px;
+    border-radius: 70px;
+}
